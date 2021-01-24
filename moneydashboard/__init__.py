@@ -1,1 +1,1 @@
-from .moneydashboard import MoneyDashboard, LoginFailedException, GetAccountsListFailedException
+from .moneydashboard import MoneyDashboard, LoginFailedException
